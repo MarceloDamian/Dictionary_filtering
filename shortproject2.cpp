@@ -1,7 +1,4 @@
-// Author: Erick Damian Cabrera
-// Course: CSCI-135
-// Instructor: Gennadiy Maryash
-// Assignment: Project 2 Phase 4.
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
